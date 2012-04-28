@@ -66,6 +66,7 @@ end
 while name.length < 100
   name = "Sir " + name
 end
+
 name
 # => "Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Sir Jearvon"
 
